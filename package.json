@@ -1,0 +1,28 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/let968/rhino-run-api.git"
+  },
+  "author": "Christian Letourneau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/let968/rhino-run-api/issues"
+  },
+  "homepage": "https://github.com/let968/rhino-run-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
